@@ -33,3 +33,7 @@ You can view and test this model in [CNN.ipynb](https://github.com/SupeemAFK/Veh
 
 ### Code
 You can view and test this model in [CNN_ResNet_Pretrained.ipynb](https://github.com/SupeemAFK/Vehicle-Classification-CNN/blob/main/CNN_ResNet_Pretrained.ipynb)
+
+
+# Model Conclusion
+CNN with tranfer learning ResNet has better results compares to CNN with no tranfer learning
