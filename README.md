@@ -1,15 +1,15 @@
 # Vehicle-Classification-CNN
-This project is a Multiclass Image Classification using CNN(convolutional neural network)
+This project is a Multiclass Image Classification using CNN(convolutional neural network) to identify vehicle which class it is. 
 
 # Tools
 ### 1.) Tensorflow
 ### 2.) Numpy
 ### 3.) Matplotlib
-### 4.) opencv
+### 4.) Opencv
 ### 5.) Jupyter Notebook
 
 # Models
-### 1.) CNN no tranfer learning
+### 1.) CNN with no tranfer learning
 
 ### Performances and accuracy of the model
 ![image](https://github.com/SupeemAFK/Vehicle-Classification-CNN/assets/83326313/b860e61e-680d-4a4e-95b1-b72e0f8dca23)
@@ -19,7 +19,7 @@ This project is a Multiclass Image Classification using CNN(convolutional neural
 ![image](https://github.com/SupeemAFK/Vehicle-Classification-CNN/assets/83326313/61c833f0-150e-48ff-9b97-72c66a1c44a4)
 
 ### Code
-You can view and test this model in CNN.ipynb
+You can view and test this model in [CNN.ipynb](https://github.com/SupeemAFK/Vehicle-Classification-CNN/blob/main/CNN.ipynb)
 
 ### 2.) CNN with tranfer learning ResNet
 
@@ -32,4 +32,4 @@ You can view and test this model in CNN.ipynb
 ![image](https://github.com/SupeemAFK/Vehicle-Classification-CNN/assets/83326313/2b2550d7-3ff8-468e-a399-944dfab29371)
 
 ### Code
-You can view and test this model in CNN_ResNet_Pretrained.ipynb
+You can view and test this model in [CNN_ResNet_Pretrained.ipynb](https://github.com/SupeemAFK/Vehicle-Classification-CNN/blob/main/CNN_ResNet_Pretrained.ipynb)
