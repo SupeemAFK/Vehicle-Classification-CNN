@@ -1,5 +1,5 @@
 # Vehicle-Classification-CNN
-This project is a Multiclass Image Classification using CNN(convolutional neural network) to identify vehicle which class it is. 
+This project is a Multiclass Image Classification using CNN(convolutional neural network) to identify vehicle which class it is. Vehicle have 4 classes which is Boat, Car, Motorcycles, Plane
 
 # Tools
 ### 1.) Tensorflow
