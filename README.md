@@ -8,6 +8,20 @@ This project is a Multiclass Image Classification using CNN (convolutional neura
 ### 4.) Opencv
 ### 5.) Jupyter Notebook
 
+# Setup
+### 1.) Install Anaconda and Jupyter Notebook
+### 2.) Install tensorflow with Anaconda Prompt
+    conda create -n tf tensorflow
+    conda activate tf
+### 3.) Install OpenCV with Anaconda Prompt
+    conda install -c conda-forge opencv
+### 4.) Install Numpy and Matplotlib
+### Note📢 
+#### Numpy and Matplotlib usually included in the Anaconda list when you installed Anaconda but if you don't have Numpy and Matplotlib please install by the following command  
+    conda install -c anaconda numpy
+    conda install -c conda-forge matplotlib
+    
+
 # Models
 ### 1.) CNN with no tranfer learning
 
