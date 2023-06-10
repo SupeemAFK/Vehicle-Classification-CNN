@@ -1,14 +1,14 @@
 # Vehicle-Classification-CNN
 This project is a Multiclass Image Classification using CNN (convolutional neural network) to identify which vehicle class it is. Vehicle have 4 classes which is Boat, Car, Motorcycles, Plane
 
-# Tools
+## Tools
 ### 1.) Tensorflow
 ### 2.) Numpy
 ### 3.) Matplotlib
 ### 4.) Opencv
 ### 5.) Jupyter Notebook
 
-# Setup
+## Setup
 ### 1.) Install Anaconda and Jupyter Notebook
 ### 2.) Install tensorflow with Anaconda Prompt
     conda create -n tf tensorflow
@@ -22,7 +22,7 @@ This project is a Multiclass Image Classification using CNN (convolutional neura
     conda install -c conda-forge matplotlib
     
 
-# Models
+## Models
 ### 1.) CNN with no tranfer learning
 
 ### Performances and accuracy of the model
@@ -45,9 +45,9 @@ You can view and test this model in [CNN.ipynb](https://github.com/SupeemAFK/Veh
 ![image](https://github.com/SupeemAFK/Vehicle-Classification-CNN/assets/83326313/18290863-936f-4118-9834-58b53793a3c3)
 ![image](https://github.com/SupeemAFK/Vehicle-Classification-CNN/assets/83326313/2b2550d7-3ff8-468e-a399-944dfab29371)
 
-### Code
+## Code
 You can view and test this model in [CNN_ResNet_Pretrained.ipynb](https://github.com/SupeemAFK/Vehicle-Classification-CNN/blob/main/CNN_ResNet_Pretrained.ipynb)
 
 
-# Model Conclusion
+## Model Conclusion
 CNN with tranfer learning ResNet has better results compares to CNN with no tranfer learning
